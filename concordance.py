@@ -93,9 +93,3 @@ fig, ax = plt.subplots(figsize = (12, 8))
 ax.imshow(wordcloud)
 plt.axis("off")
 st.pyplot(fig)
-
-doc.count_by()
-pdata={'person':[], 'frequency':[]}
-persons=pd.DataFrame(data=pdata)
-
-st.write(persons)
