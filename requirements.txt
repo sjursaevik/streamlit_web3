@@ -1,0 +1,6 @@
+spacy
+streamlit
+spacy_streamlit
+pandas
+matplotlib
+wordcloud
